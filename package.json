@@ -1,0 +1,44 @@
+{
+  "name": "contributions-text",
+  "version": "1.0.0",
+  "description": "Fancy text for GutHub's contributions bar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolacika/contributions-text.git"
+  },
+  "keywords": [
+    "github",
+    "text",
+    "generator",
+    "contributions"
+  ],
+  "author": "Tolacika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolacika/contributions-text/issues"
+  },
+  "homepage": "https://github.com/tolacika/contributions-text#readme",
+  "bin": {
+    "ginit": "./app.js"
+  },
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "git-user-data": "^1.0.0",
+    "inquirer": "^6.4.1",
+    "inquirer-datepicker-prompt": "^0.4.2",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "moment": "^2.24.0",
+    "simple-git": "^1.118.0",
+    "touch": "^3.1.0",
+    "validator": "^11.1.0"
+  }
+}
