@@ -34,7 +34,7 @@
     "git-user-data": "^1.0.0",
     "inquirer": "^6.4.1",
     "inquirer-datepicker-prompt": "^0.4.2",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.2",
     "moment": "^2.24.0",
     "simple-git": "^1.118.0",
